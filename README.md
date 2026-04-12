@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erenteloglu
 - 👀 I’m interested in Astronomy, Science, Art and Music
-- 🌱 I’m currently learning Unity
+
 
 
 <!---
