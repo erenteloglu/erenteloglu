@@ -27,12 +27,6 @@ mobile applications, databases and interactive systems.
 
 **Databases & Hardware:** SQLite, Relational Databases, Arduino, ESP32
 
-## Featured Projects
-
-- **DOA** — Full-stack educational management platform
-- **MUMMUjewelry** — Responsive e-commerce UX prototype
-- **StudyFlow** — AI-assisted study planning product concept
-- **Hotel Tulum** — Role-based hotel reservation management system
 
 ## Currently
 
