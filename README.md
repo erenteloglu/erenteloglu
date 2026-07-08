@@ -37,3 +37,9 @@ digital product development or UX/UI.
 
 - LinkedIn: https://www.linkedin.com/in/suleyman-eren-teloglu-638b46294/
 - Email: erenteloglu@gmail.com
+
+
+
+
+
+![Snake animation](https://github.com/erenteloglu/ereteloglu/blob/output/github-contribution-grid-snake.svg)
