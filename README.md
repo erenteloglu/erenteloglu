@@ -42,4 +42,17 @@ digital product development or UX/UI.
 
 
 
-![Snake animation](https://github.com/erenteloglu/ereteloglu/blob/output/github-contribution-grid-snake.svg)
+## GitHub Activity
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=erenteloglu&show_icons=true&theme=transparent&hide_border=true"
+    alt="Eren's GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=erenteloglu&layout=compact&theme=transparent&hide_border=true"
+    alt="Eren's most used languages"
+  />
+</p>
